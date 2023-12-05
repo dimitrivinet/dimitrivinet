@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimitrivinet
 - 👀 I’m interested in Robotics, AI, and electronics
-- 🖥️ Visit my website: dimitrivinet.com
+- 🖥️ Visit my website: [dimitrivinet.com](https://dimitrivinet.com)
 - 📫 How to reach me : 
 
   email: dimitri.pro@dimitrivinet.com
