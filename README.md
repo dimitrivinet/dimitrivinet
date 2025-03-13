@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimitrivinet
-- 👀 I’m interested in Robotics, AI, and electronics
-- 🖥️ Visit my website: [dimitrivinet.com](https://dimitrivinet.com)
+- I'm a Rust and Python engineer with 3+ years of experience and strong DevOps knowledge.
+- Also interested in electronics 👀
 - 📫 How to reach me : 
 
   email: dimitri.pro@dimitrivinet.com
